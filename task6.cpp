@@ -7,5 +7,5 @@ main()
     cout<<"Enter a number:";
     cin>>number;
     double squareroot = sqrt(number);
-    cout<<"The squareroot of" << 196 <<"is:"<<squareroot;
+    cout<<"The squareroot of"<<" " << 196<<" " <<"is:"<<" "<<squareroot;
 }
